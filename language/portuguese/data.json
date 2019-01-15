@@ -1548,6 +1548,26 @@
 			"project": "In Progress",
 			"site": "https://electronjs.org/docs?lang=pt-BR",
 			"image": "https://impactotecno.files.wordpress.com/2018/02/electron1.jpg?w=640"
+		},
+		{
+			"id": 156,
+			"name": "Documentação do Vuex",
+			"author": "Vuex",
+			"translators": "-",
+			"type": "Documentation",
+			"project": "Completed",
+			"site": "https://vuex.vuejs.org/ptbr/",
+			"image": "https://i.ibb.co/qYL9Wzr/156.png"
+		},
+		{
+			"id": 157,
+			"name": "O que você está esperando para falar em público?",
+			"author": "Arianne Donoghue",
+			"translators": "Lauren Ferreira ",
+			"type": "Articles",
+			"project": "Completed",
+			"site": "https://medium.com/devtranslate/o-que-voc%C3%AA-t%C3%A1-esperando-para-falar-em-p%C3%BAblico-f75d12df1355",
+			"image": "https://i.ibb.co/wrf0jBc/157.png"
 		}
 	]
 }
